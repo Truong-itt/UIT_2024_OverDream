@@ -1,6 +1,6 @@
 ## CÀI ĐẶT
 
-Clone GitHub submodules:
+Clone GitHub:
 - Clone source code :  ```git clone https://github.com/Truong-itt/UIT_2024_OverDream.git```
 - Python : 3.10.X
 - Sau khi clone:
